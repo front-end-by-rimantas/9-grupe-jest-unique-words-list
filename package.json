@@ -1,0 +1,20 @@
+{
+  "name": "jest-unique-words-list",
+  "version": "1.0.0",
+  "description": "Naudodami JEST biblioteka testuosime kaip veikia funkcija, kuri filtruoja unikalius zodzius is dvimacio masyvo ir pan",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watchAll *.js"
+  },
+  "keywords": [
+    "jest",
+    "js",
+    "filtering"
+  ],
+  "author": "Rimantas Belovas",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
